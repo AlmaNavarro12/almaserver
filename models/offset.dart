@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 class Offset {
-  final double dx;
-  final double dy;
+  final int dx;
+  final int dy;
   
   Offset({
     this.dx,
